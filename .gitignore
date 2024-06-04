@@ -1,3 +1,6 @@
+hardhat.config.js
+hardhat.config.ts
+
 # yarn
 .yarn/*
 !.yarn/plugins
