@@ -19,6 +19,7 @@
     "@typechain/hardhat": "6.1.5",
     "@types/jest": "^29.5.12",
     "chai": "4.3.7",
+    "dotenv": "^16.4.5",
     "ethers": "5.4",
     "hardhat": "^2.22.4",
     "hardhat-gas-reporter": "1.0.9",
